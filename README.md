@@ -1,5 +1,5 @@
-# VirusTotal-IP-report-automation  
-Python automation for checking IP addresses in VirusTotal  
+# VirusTotal-IP-report-Python-Automation  
+Python Automation for IP Reputation Checking with VirusTotal
   
 Most Linux distributions come with Python pre-installed. You can check if Python is installed by running:  
 python3 --version  
